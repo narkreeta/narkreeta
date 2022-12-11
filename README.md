@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer Who Love So much To Learn New Technologies. You can connect with me below links.
+a tech-savvy Full Stack Developer with a lot of curiosity.
 
 
 ## 🌐 Socials:
