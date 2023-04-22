@@ -1,4 +1,6 @@
 # About Me:
+![image](https://user-images.githubusercontent.com/75584628/233801688-231ac6eb-481d-425f-90c4-313960f7f82d.png)
+
 ##### *Hi, Its me sailendra Dash, I am a versatile developer who can take on any project with confidence. particularly passionate about working with TypeScript and Python, and have demonstrated a high level of proficiency in these languages. With extensive experience in developing software applications, I am an asset to any team, bringing a deep understanding of coding best practices, software architecture, and database design. My dedication to staying up-to-date with the latest technologies and tools makes me a valuable resource for any organization seeking a skilled and adaptable developer.*
 
 # Tech Stack:
