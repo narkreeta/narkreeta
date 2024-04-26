@@ -22,7 +22,7 @@
 
 ### 📫 Contact Me:
 
-- **Email**: sailendradash@fuxnode.com 
+- **Email**: sailendradash@hotmail.com 
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/narkreeta/)
 - **Portfolio**: [Explore my portfolio](https://portfolio.fuxnode.com/)
 
