@@ -1,5 +1,5 @@
 # About Me:
-![image](https://user-images.githubusercontent.com/75584628/233801688-231ac6eb-481d-425f-90c4-313960f7f82d.png)
+![1000015544](https://github.com/user-attachments/assets/620d9f94-8388-4938-8cfc-b6b164940740)
 
 ### 👋 Hello, I'm Sailendra Dash : Full Stack Developer | S/W Architect | Devops
 - #### I'm a passionate and results-driven software developer based in India. With a deep fascination for technology and a commitment to excellence, I thrive on turning innovative ideas into practical, efficient, and user-friendly software solutions.
