@@ -22,7 +22,7 @@
 
 ### 📫 Contact Me:
 
-- **Email**: sailendradash.dolphin@gmail.com 
+- **Email**: sailendradash@hotmail.com 
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/narkreeta/)
 - **Portfolio**: [Explore my portfolio](https://sailendradash.indinar.com/)
 
